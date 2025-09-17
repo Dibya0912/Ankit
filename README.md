@@ -1,1 +1,1 @@
-# Ankit !
+Symptom Solver Java project
